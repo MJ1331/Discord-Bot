@@ -1,0 +1,26 @@
+
+To create your own discord bot head to the following website:
+https://discord.com/developers/applications
+
+After going to the website proceed the following steps. 
+
+Steps to intialize your own bot:
+1. Click on new application  
+2. Give a name to your bot
+3. Customize your bot in the "General Information" bar in the left side
+4. Then head to OAuth2
+5. Then under "Default Authorization Link" set the "Authorization Method" to 
+    In-App Authorizaton
+6. THen click on Bot under "SCOPES"
+7. Now set Bot permission as per your wish
+   Note: It is not recommended to give Administrator power to your bot
+8. Now go the "URL Generator" under the OAuth2 
+9. Click bot under "scopes" once again and also the permission
+10. Now copy the link from the "Generated URL"
+11. Now go to the bot and click on Build-A-Bot
+12. Then click the reset token.
+13. Now you can see a token generated. This token is later used in the program
+    Note: This token is not to be shared anywhere
+14. Now start coding..
+
+
