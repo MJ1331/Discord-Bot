@@ -1,0 +1,15 @@
+Libraries to be downloaded in the terminal:
+
+1. pip install discord
+2. pip install requests
+3. pip install json
+4. pip install urllib.request
+5. pip install asyncio
+6. pip install random
+7. pip install os
+8. pip install youtube_dl
+9. pip install time
+
+If you face any problem in downloading the librariees, Update to verison
+
+You can run “pip install --upgrade pip” to install and use the new version of pip. 
