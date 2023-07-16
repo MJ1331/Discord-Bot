@@ -1,3 +1,5 @@
+#Before trying out the code make sure to go through the setup file and create your own bot first.
+
 import discord
 from discord.ext import commands
 import requests
